@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  SpriteKit-ColorSwitch
+//  ColorSwitch
 //
-//  Created by Erez Mizrahi on 14/10/2020.
+//  Created by Erez Mizrahi on 13/10/2020.
 //
 
 import UIKit
